@@ -1,3 +1,3 @@
 /test/
-It will trigger jenkins job when git commit is executed.
+It will trigger jenkins job afetr git commit
 changed file name.
